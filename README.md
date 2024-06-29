@@ -5,7 +5,7 @@
 ### Result
 30 Dickies with 10 missions each, players will lost 2000~12000 coin!!!
 
-
+![result](https://github.com/yijie37/slapcity_simulation/blob/main/images/screen_shot.png "Simulation Result")
 
 ### Hypothesis
 
@@ -27,6 +27,7 @@ python3 slapcity_simulation.py
 ### 结论
 玩家有30个吊毛, 每个Dicky打工10次，玩家会损失2000至12000的金币！！！
 
+![结果](https://github.com/yijie37/slapcity_simulation/blob/main/images/screen_shot.png "模拟结果")
 
 ### 假设
 1. 不考虑吊毛扇老板耳光和被扇耳光的金币。
